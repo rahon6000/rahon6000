@@ -1,15 +1,16 @@
 
-# Dev, Physics, Math and Games
+# 🖥Dev, 🔬Physics, 🔢Math, 🎸Music and 🎮Games
 
 is What I love.
 
 # What I built so far
 
-- Color Sense
-- Japaness word quiz (only for Koreans)
+- [Color Sense](blog.rahon.dev/PF/ColorSense/color-sense.html)
+- [Japaness word quiz](blog.rahon.dev/PF/JpnQuiz/jpn-quiz.html) (only for Koreans)
 - VScode extension for Programmers.co.kr
-- 3️⃣3️-Ka game
- 
+- 3️⃣-Ka game
+
+
 
 
 <!---
